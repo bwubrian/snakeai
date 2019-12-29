@@ -1,0 +1,101 @@
+{
+  "name": "root",
+  "gauges": [
+    {
+      "name": "SnakeBrain.mean_reward",
+      "value": -0.0005637754959619143,
+      "min": -0.0009063999771024101,
+      "max": -0.0005458579743761479,
+      "count": 50
+    }
+  ],
+  "total": 812.1370349360004,
+  "count": 1,
+  "self": 26.1485139279157,
+  "children": [
+    {
+      "name": "TrainerController.advance",
+      "total": 785.9885210080847,
+      "count": 50001,
+      "self": 60.430740933619745,
+      "children": [
+        {
+          "name": "env_step",
+          "total": 691.5303638804653,
+          "count": 50001,
+          "self": 658.5981021252519,
+          "children": [
+            {
+              "name": "SubprocessEnvManager._take_step",
+              "total": 32.418592973022896,
+              "count": 50001,
+              "self": 1.1091988389780454,
+              "children": [
+                {
+                  "name": "PPOPolicy.evaluate",
+                  "total": 31.30939413404485,
+                  "count": 50001,
+                  "self": 31.30939413404485
+                }
+              ]
+            },
+            {
+              "name": "workers",
+              "total": 0.513668782190507,
+              "count": 50001,
+              "self": 0.0,
+              "children": [
+                {
+                  "name": "worker_root",
+                  "total": 810.4562030208508,
+                  "count": 50001,
+                  "is_parallel": true,
+                  "self": 176.3346759769738,
+                  "children": [
+                    {
+                      "name": "UnityEnvironment.step",
+                      "total": 634.121527043877,
+                      "count": 50001,
+                      "is_parallel": true,
+                      "self": 21.521699548677134,
+                      "children": [
+                        {
+                          "name": "UnityEnvironment._generate_step_input",
+                          "total": 5.1548298940761015,
+                          "count": 50001,
+                          "is_parallel": true,
+                          "self": 5.1548298940761015
+                        },
+                        {
+                          "name": "communicator.exchange",
+                          "total": 607.4449976011238,
+                          "count": 50001,
+                          "is_parallel": true,
+                          "self": 607.4449976011238
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "update_policy",
+          "total": 34.02741619399967,
+          "count": 41,
+          "self": 26.528480000972195,
+          "children": [
+            {
+              "name": "PPOPolicy.update",
+              "total": 7.498936193027475,
+              "count": 1230,
+              "self": 7.498936193027475
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

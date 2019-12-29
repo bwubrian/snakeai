@@ -1,0 +1,173 @@
+Base path: /home/bwu/Unity/Hub/Editor/2018.4.14f1/Editor/Data
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  error: 1 plat 15 at Generic.compute(379): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 15 at Generic.compute(392): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 15 at Generic.compute(408): signed/unsigned mismatch, unsigned assumed
+  api=15 insize=15451 outsize=3301 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 15 at Generic.compute(379): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 15 at Generic.compute(392): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 15 at Generic.compute(408): signed/unsigned mismatch, unsigned assumed
+  api=15 insize=15451 outsize=2985 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 18 at Generic.compute(379): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 18 at Generic.compute(392): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 18 at Generic.compute(408): signed/unsigned mismatch, unsigned assumed
+  api=18 insize=15451 outsize=4593 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 18 at Generic.compute(379): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 18 at Generic.compute(392): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 18 at Generic.compute(408): signed/unsigned mismatch, unsigned assumed
+  api=18 insize=15451 outsize=5953 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=64076 outsize=9157 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=64076 outsize=18465 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=64076 outsize=20209 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=9919 outsize=3817 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=9919 outsize=3857 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=9919 outsize=7285 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=9919 outsize=8725 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=9919 outsize=7969 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=23440 outsize=6489 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=23440 outsize=30369 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=23440 outsize=11897 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=2952 outsize=317 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 15 at BarracudaReferenceImpl.compute(12): 'kernal' : unknown pragma ignored
+  error: 1 plat 15 at BarracudaReferenceImpl.compute(1261): 'ix': loop control variable conflicts with a previous declaration in the outer scope; most recent declaration will be used
+  api=15 insize=44328 outsize=3425 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 15 at BarracudaReferenceImpl.compute(12): 'kernal' : unknown pragma ignored
+  error: 1 plat 15 at BarracudaReferenceImpl.compute(1261): 'ix': loop control variable conflicts with a previous declaration in the outer scope; most recent declaration will be used
+  api=15 insize=44328 outsize=4313 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 15 at BarracudaReferenceImpl.compute(12): 'kernal' : unknown pragma ignored
+  error: 1 plat 15 at BarracudaReferenceImpl.compute(1261): 'ix': loop control variable conflicts with a previous declaration in the outer scope; most recent declaration will be used
+  api=15 insize=44328 outsize=3193 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 15 at BarracudaReferenceImpl.compute(12): 'kernal' : unknown pragma ignored
+  error: 1 plat 15 at BarracudaReferenceImpl.compute(1261): 'ix': loop control variable conflicts with a previous declaration in the outer scope; most recent declaration will be used
+  api=15 insize=44328 outsize=3009 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 15 at BarracudaReferenceImpl.compute(12): 'kernal' : unknown pragma ignored
+  error: 1 plat 15 at BarracudaReferenceImpl.compute(1261): 'ix': loop control variable conflicts with a previous declaration in the outer scope; most recent declaration will be used
+  api=15 insize=44328 outsize=2781 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 15 at BarracudaReferenceImpl.compute(12): 'kernal' : unknown pragma ignored
+  error: 1 plat 15 at BarracudaReferenceImpl.compute(1261): 'ix': loop control variable conflicts with a previous declaration in the outer scope; most recent declaration will be used
+  api=15 insize=44328 outsize=2853 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 15 at BarracudaReferenceImpl.compute(12): 'kernal' : unknown pragma ignored
+  error: 1 plat 15 at BarracudaReferenceImpl.compute(1261): 'ix': loop control variable conflicts with a previous declaration in the outer scope; most recent declaration will be used
+  api=15 insize=44328 outsize=4005 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 15 at BarracudaReferenceImpl.compute(12): 'kernal' : unknown pragma ignored
+  error: 1 plat 15 at BarracudaReferenceImpl.compute(1261): 'ix': loop control variable conflicts with a previous declaration in the outer scope; most recent declaration will be used
+  api=15 insize=44328 outsize=4253 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 15 at BarracudaReferenceImpl.compute(12): 'kernal' : unknown pragma ignored
+  error: 1 plat 15 at BarracudaReferenceImpl.compute(1261): 'ix': loop control variable conflicts with a previous declaration in the outer scope; most recent declaration will be used
+  api=15 insize=44328 outsize=2837 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 18 at BarracudaReferenceImpl.compute(12): 'kernal' : unknown pragma ignored
+  error: 1 plat 18 at BarracudaReferenceImpl.compute(1261): 'ix': loop control variable conflicts with a previous declaration in the outer scope; most recent declaration will be used
+  error: 1 plat 18 at Tensor.cginc(141): use of potentially uninitialized variable (ReadonlyTensor::SafeGet)
+  api=18 insize=44328 outsize=12029 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 18 at BarracudaReferenceImpl.compute(12): 'kernal' : unknown pragma ignored
+  error: 1 plat 18 at BarracudaReferenceImpl.compute(1261): 'ix': loop control variable conflicts with a previous declaration in the outer scope; most recent declaration will be used
+  api=18 insize=44328 outsize=6449 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 18 at BarracudaReferenceImpl.compute(12): 'kernal' : unknown pragma ignored
+  error: 1 plat 18 at BarracudaReferenceImpl.compute(1261): 'ix': loop control variable conflicts with a previous declaration in the outer scope; most recent declaration will be used
+  api=18 insize=44328 outsize=6793 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 18 at BarracudaReferenceImpl.compute(12): 'kernal' : unknown pragma ignored
+  error: 1 plat 18 at BarracudaReferenceImpl.compute(1261): 'ix': loop control variable conflicts with a previous declaration in the outer scope; most recent declaration will be used
+  api=18 insize=44328 outsize=5601 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 18 at BarracudaReferenceImpl.compute(12): 'kernal' : unknown pragma ignored
+  error: 1 plat 18 at BarracudaReferenceImpl.compute(1261): 'ix': loop control variable conflicts with a previous declaration in the outer scope; most recent declaration will be used
+  api=18 insize=44328 outsize=5845 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 18 at BarracudaReferenceImpl.compute(12): 'kernal' : unknown pragma ignored
+  error: 1 plat 18 at BarracudaReferenceImpl.compute(1261): 'ix': loop control variable conflicts with a previous declaration in the outer scope; most recent declaration will be used
+  api=18 insize=44328 outsize=7793 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 18 at BarracudaReferenceImpl.compute(12): 'kernal' : unknown pragma ignored
+  error: 1 plat 18 at BarracudaReferenceImpl.compute(1261): 'ix': loop control variable conflicts with a previous declaration in the outer scope; most recent declaration will be used
+  api=18 insize=44328 outsize=7869 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 18 at BarracudaReferenceImpl.compute(12): 'kernal' : unknown pragma ignored
+  error: 1 plat 18 at BarracudaReferenceImpl.compute(1261): 'ix': loop control variable conflicts with a previous declaration in the outer scope; most recent declaration will be used
+  api=18 insize=44328 outsize=5685 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 18 at BarracudaReferenceImpl.compute(12): 'kernal' : unknown pragma ignored
+  error: 1 plat 18 at BarracudaReferenceImpl.compute(1261): 'ix': loop control variable conflicts with a previous declaration in the outer scope; most recent declaration will be used
+  api=18 insize=44328 outsize=12613 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=4053 outsize=5881 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=28299 outsize=1717 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=28299 outsize=2317 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=28299 outsize=1705 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=28299 outsize=1693 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=28299 outsize=1593 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=28299 outsize=1685 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=28299 outsize=1697 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=28299 outsize=2989 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=28299 outsize=2793 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=28299 outsize=2917 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=28299 outsize=2781 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=28299 outsize=2849 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=28299 outsize=3305 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=28299 outsize=3221 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=28299 outsize=3129 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=28299 outsize=3533 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=28299 outsize=6137 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=28299 outsize=5729 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=28299 outsize=5793 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=28299 outsize=5365 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=28299 outsize=5505 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=28299 outsize=5721 ok=1
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+
+Quitting shader compiler process
