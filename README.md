@@ -1,6 +1,6 @@
 # Using Reinforcement Learning to play the Snake game
 
-Trained with Unity's implentation of PPO on various board sizes.
+Trained with Unity's implentation of [PPO](https://openai.com/blog/openai-baselines-ppo/) on various board sizes.
 
 Shown are nine independent parallel randomized instantiations on an 8x8 board.
 
